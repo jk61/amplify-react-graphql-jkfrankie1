@@ -1,0 +1,12 @@
+{
+  "resourceName": "jkfrankie1content",
+  "policyUUID": "996ffc8b",
+  "bucketName": "amplifyreactgraphqlj8f6528dd18b045ac9985d5ed07a",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
